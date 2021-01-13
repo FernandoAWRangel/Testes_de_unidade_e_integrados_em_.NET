@@ -1,18 +1,18 @@
-# Testes_de_unidade_e_integrados_em_.NET
-Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+# dotnet-vaquinha-tests
+Projeto Base para Testes - .Net Core  
 
-Nesta etapa do projeto Vaquinha aprendemos:
-# Testar faz parte do desenvolvimento de  software
-# Suas vantagens e desvantagens  caso não seja efetuado
-# Regra de myers
-#  Tipos mais comuns de testes
-  -Teste de unidade
-  -Teste de Integração
-  -Testes Automizados
-# MVC : Model View Controller
-# Estrutura do Projet
-#TDD:Test Driven Development
+## Digital Innovation One
 
-## FERRAMENTAS UTILIZADAS ##
-Visual Studio 2019
-Google Drive
+[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+
+## Eliézer Zarpelão
+[GitHub Timeline](https://elizarp.github.io/timeline/)  
+[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
+[Github](https://github.com/elizarp) 
+
+## Marcos Freire
+[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
+[Github](https://github.com/marcosfreire) 
+
+## Slides
+[Slides em PDF](TesteNetCore.pdf)
