@@ -1,7 +1,7 @@
 # Testes_de_unidade_e_integrados_em_.NET
 Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
 
-Nesta etapa do projeto  aprendemos:
+Nesta etapa do projeto Vaquinha aprendemos:
 # Testar faz parte do desenvolvimento de  software
 # Suas vantagens e desvantagens  caso não seja efetuado
 # Regra de myers
